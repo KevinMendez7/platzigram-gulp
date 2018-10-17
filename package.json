@@ -1,0 +1,33 @@
+{
+  "name": "platzigram",
+  "version": "0.1.0",
+  "description": "Comparte tus fotos estudiando en platzi con la comunidad",
+  "main": "server.js",
+  "scripts": {},
+  "keywords": [
+    "platzi",
+    "curso-definitivo",
+    "platzigram"
+  ],
+  "author": "Kevin Mendez <kevin_33_6@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "materialize-css": "^0.100.2",
+    "page": "^1.8.6",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
+    "browserify": "^16.2.0",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "Scripts":{
+    "build": "gulp"    
+  }
+}
