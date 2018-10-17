@@ -22,12 +22,12 @@
     "babel-preset-env": "^1.6.1",
     "babelify": "^8.0.0",
     "browserify": "^16.2.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^4.0.1",
     "vinyl-source-stream": "^2.0.0"
   },
-  "Scripts":{
-    "build": "gulp"    
+  "Scripts": {
+    "build": "gulp"
   }
 }
